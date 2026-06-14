@@ -1,0 +1,2 @@
+# Explainable-Multi-Level-Heart-Disease-Risk-Prediction-System-Using-ML
+Developed an Explainable Multi-Level Heart Disease Risk Prediction System that classifies patients into different risk categories using machine learning techniques. The project incorporates feature engineering, model evaluation, and explainable AI to provide transparent and accurate predictions through a user-friendly web interface.
