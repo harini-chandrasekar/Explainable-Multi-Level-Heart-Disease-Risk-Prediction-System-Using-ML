@@ -1,7 +1,7 @@
 # 🫀 An Explainable Multi-Level Heart Disease Risk Prediction System
 
-**Authors:** Harini C (510622205031), Amruta B S (510622205011)  
-**Department:** Information Technology, CAHCET
+**Authors:** Harini C (510622205031)
+**Department:** Information Technology
 
 ---
 
